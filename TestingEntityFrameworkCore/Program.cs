@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Linq;
 using TestingEntityFrameworkCore.Models;
 
 namespace TestingEntityFrameworkCore
@@ -8,7 +10,9 @@ namespace TestingEntityFrameworkCore
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            AddingData();
+            //AddingData();
+            ReadingData();
+            Console.ReadLine();
         }
 
         static void AddingData()
@@ -34,6 +38,20 @@ namespace TestingEntityFrameworkCore
                 context.Add(alumno4);
                 //Guardamos los cambios
                 context.SaveChanges();
+            }
+        }
+
+        static void ReadingData()
+        {
+            using (PostDbContext context = new PostDbContext())
+            {
+                var profesor = context.Profesores //Indicamos la tabla
+                                      .Include(x => x.Cursos) //Incluimos los resultados coincidentes de la tabla cursos (inner join)
+                                      .ThenInclude(x => x.Alumnos) //Incluimos los resultados coincidentes de la tabla alumnos (inner join)
+                                      .First(); //Seleccionamos el primero
+                foreach (var curso in profesor.Cursos)
+                    foreach (var alumno in curso.Alumnos)
+                        Console.WriteLine($"El alumno {alumno.Nombre} recibe el curso de {curso.Nombre},impartido por {profesor.Nombre}");
             }
         }
     }

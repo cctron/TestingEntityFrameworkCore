@@ -9,3 +9,14 @@ C:\Users\acivico.GOWAIICORP\source\repos\TestingEntityFrameworkCore\TestingEntit
 C:\Users\acivico.GOWAIICORP\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\bin\Debug\netcoreapp2.1\TestingEntityFrameworkCore.pdb
 C:\Users\acivico.GOWAIICORP\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.dll
 C:\Users\acivico.GOWAIICORP\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.pdb
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\bin\Debug\netcoreapp2.1\TestingEntityFrameworkCore.deps.json
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\bin\Debug\netcoreapp2.1\TestingEntityFrameworkCore.runtimeconfig.json
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\bin\Debug\netcoreapp2.1\TestingEntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\bin\Debug\netcoreapp2.1\TestingEntityFrameworkCore.dll
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\bin\Debug\netcoreapp2.1\TestingEntityFrameworkCore.pdb
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.AssemblyInfo.cs
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.dll
+C:\Users\acivico\source\repos\TestingEntityFrameworkCore\TestingEntityFrameworkCore\obj\Debug\netcoreapp2.1\TestingEntityFrameworkCore.pdb

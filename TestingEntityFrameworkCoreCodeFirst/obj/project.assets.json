@@ -3214,23 +3214,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acivico.GOWAIICORP\\.nuget\\packages\\": {},
+    "C:\\Users\\acivico\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acivico.GOWAIICORP\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCoreCodeFirst\\TestingEntityFrameworkCoreCodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\acivico\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCoreCodeFirst\\TestingEntityFrameworkCoreCodeFirst.csproj",
       "projectName": "TestingEntityFrameworkCoreCodeFirst",
-      "projectPath": "C:\\Users\\acivico.GOWAIICORP\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCoreCodeFirst\\TestingEntityFrameworkCoreCodeFirst.csproj",
-      "packagesPath": "C:\\Users\\acivico.GOWAIICORP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acivico.GOWAIICORP\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCoreCodeFirst\\obj\\",
+      "projectPath": "C:\\Users\\acivico\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCoreCodeFirst\\TestingEntityFrameworkCoreCodeFirst.csproj",
+      "packagesPath": "C:\\Users\\acivico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acivico\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCoreCodeFirst\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\acivico.GOWAIICORP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\acivico\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3243,8 +3243,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\acivico.GOWAIICORP\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore.csproj": {
-              "projectPath": "C:\\Users\\acivico.GOWAIICORP\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore.csproj"
+            "C:\\Users\\acivico\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore.csproj": {
+              "projectPath": "C:\\Users\\acivico\\source\\repos\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore\\TestingEntityFrameworkCore.csproj"
             }
           }
         }

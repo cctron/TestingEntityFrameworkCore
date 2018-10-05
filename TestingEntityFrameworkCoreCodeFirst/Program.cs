@@ -10,9 +10,12 @@ namespace TestingEntityFrameworkCoreCodeFirst
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            AddingData();
+            Console.ReadLine();
         }
+        
 
-        static void CreatingData()
+        static void AddingData()
         {
             using (PostDbContext context = new PostDbContext())
             {
@@ -36,6 +39,7 @@ namespace TestingEntityFrameworkCoreCodeFirst
                 //Guardamos los cambios
                 context.SaveChanges();
             }
+
 
             using (PostDbContext context = new PostDbContext())
             {
